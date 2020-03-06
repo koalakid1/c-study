@@ -147,6 +147,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10818.c" />
+    <ClCompile Include="1546.c" />
+    <ClCompile Include="2562.c" />
+    <ClCompile Include="2577.c" />
+    <ClCompile Include="3052.c" />
+    <ClCompile Include="8958.c" />
     <ClCompile Include="exercise.c" />
     <ClCompile Include="sample01.c" />
     <ClCompile Include="sample02.c" />
