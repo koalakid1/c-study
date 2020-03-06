@@ -1,2 +1,5 @@
-﻿  exercise.c
-  200306 C.vcxproj -> C:\Users\USER\study\C study\200306 C\Debug\200306 C.exe
+﻿  10951.c
+c1 : fatal error C1083: 소스 파일을 열 수 없습니다. '10951.c': No such file or directory
+  1110.c
+c1 : fatal error C1083: 소스 파일을 열 수 없습니다. '1110.c': No such file or directory
+  코드를 생성하고 있습니다...

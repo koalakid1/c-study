@@ -30,9 +30,6 @@
     <ClCompile Include="sample05.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="10952.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="sample06.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
