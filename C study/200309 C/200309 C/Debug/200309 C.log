@@ -1,0 +1,16 @@
+﻿cl : 명령줄 warning D9025: '/analyze-'을(를) '/analyze:stacksize40016'(으)로 재정의합니다.
+  15596.c
+  4673.c
+  exercise01.c
+  exercise02.c
+  sample01.c
+  sample02.c
+  sample03.c
+  sample04.c
+  sample05.c
+  sample06.c
+  sample07.c
+  sample08.c
+  컴파일하고 있습니다...
+  코드를 생성하고 있습니다...
+  200309 C.vcxproj -> C:\Users\USER\study\C study\200309 C\Debug\200309 C.exe
