@@ -1,24 +1,37 @@
-#include<stdio.h>
-#include<string.h>
-
-int main() {
-
-	int selfnum[10000] = { 0, };
-
-	for (int i = 1; i <= 10000; i++) {
-		int j, self = i;
-		while (1) {
-			j = i % 10;
-			self += j;
-			if ((j == i) == 1) {
-				break;
-			}
-			i /= 10;
-		}
-		if (selfnum[self - 1] == 0) selfnum[self - 1] = 1;
-	}
-	
-	for (int k = 0; k < 10000; k++) {
-		if (selfnum[k] == 0) printf("%d", k+1);
-	}
-}
+//#include<stdio.h>
+//#include<string.h>
+//
+//int selfnum(int a) {
+//
+//	int b=0, result = a;
+//	while (1) {
+//
+//		b = a % 10;
+//		result += b;
+//		if (b == a) return result;
+//		a /= 10;
+//
+//	}
+//
+//}
+//
+//int main() {
+//
+//	int count[10000] = { 0, };
+//	int self;
+//
+//	for (int i = 0; i < 10000; i++) {
+//
+//		self = selfnum(i + 1);
+//		
+//		if (self <= 10000) count[self-1] = 1;
+//
+//	}
+//
+//	for (int j = 0; j < 10000; j++) {
+//
+//		if (count[j] == 0) printf("%d \n", j + 1);
+//
+//	}
+//
+//}
