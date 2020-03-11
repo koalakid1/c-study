@@ -147,8 +147,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1065.c" />
-    <ClCompile Include="4673.c" />
     <ClCompile Include="exercise01.c" />
     <ClCompile Include="exercise02.c" />
     <ClCompile Include="exercise03.c" />
