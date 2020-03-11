@@ -147,7 +147,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="numbaseball.c" />
+    <ClCompile Include="exercise01.c" />
+    <ClCompile Include="exercise02.c" />
     <ClCompile Include="sample01.c" />
     <ClCompile Include="sample02.c" />
     <ClCompile Include="sample03.c" />
@@ -156,6 +157,11 @@
     <ClCompile Include="sample06.c" />
     <ClCompile Include="sample07.c" />
     <ClCompile Include="sample08.c" />
+    <ClCompile Include="sample09.c" />
+    <ClCompile Include="sample10.c" />
+    <ClCompile Include="sample11.c" />
+    <ClCompile Include="sample12.c" />
+    <ClCompile Include="sample13.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
