@@ -1,0 +1,3 @@
+﻿  exercise01.c
+C:\Users\USER\github\c-study\C study\200312 C\200312 C\exercise01.c(38,56): warning C4133: '=': 'student *'과(와) 'book *' 사이의 형식이 호환되지 않습니다.
+  200312 C.vcxproj -> C:\Users\USER\github\c-study\C study\200312 C\Debug\200312 C.exe
